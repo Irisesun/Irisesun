@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Irisesun
-- 👀 I’m interested in android 
-- 🌱 I’m currently learning phyton C++
+- 👀 I’m interested in nothing 
 - 
 - 📫 How to reach me van1989xd@gmail.com
 
